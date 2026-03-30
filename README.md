@@ -24,12 +24,20 @@ I also actively contribute to **hackathons and technical communities**, and I en
 
 ---
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/BT23F06F040?theme=dark&font=Baloo)
+
+## GitHub
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vishwaAMBERS&theme=tokyonight)
+
 ## 🎓 Education
 
 **Government College of Engineering, Aurangabad (GECA)**  
 📅 Jun 2023 – Apr 2027  
 - B.Tech in Information Technology  
-- CGPA: 7.0 / 10  
+- CGPA: 7.0 / 10
 - Minor: Management Finance  
 - Coursework: Data Structures, OOP, DBMS, Web Dev, Data Science  
 
@@ -141,11 +149,8 @@ I also actively contribute to **hackathons and technical communities**, and I en
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaAMBERS&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vishwaAMBERS&theme=tokyonight)
 
-## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/BT23F06F040?theme=dark&font=Baloo)
 
 ## ⚡ Fun Fact
 
